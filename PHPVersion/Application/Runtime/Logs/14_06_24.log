@@ -1,0 +1,2588 @@
+[ 2014-06-24T23:00:01+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.069536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021760s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000473s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.629068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.629242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013572s ]
+
+[ 2014-06-24T23:00:24+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:00:45+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:00:50+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.048785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001042s ]
+
+[ 2014-06-24T23:01:12+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:01:35+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028024s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001999s ]
+
+[ 2014-06-24T23:02:18+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.120529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.120748s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:02:59+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:04:37+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:04:58+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005279s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:05:27+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2014-06-24T23:05:54+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:06:01+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000931s ]
+
+[ 2014-06-24T23:06:13+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004940s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000221s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2014-06-24T23:06:15+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003076s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:06:22+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.071002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.071123s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000923s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2014-06-24T23:06:45+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:06:56+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:07:06+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:07:17+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002718s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:07:19+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2014-06-24T23:07:40+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001651s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:08:01+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:08:15+08:00 ] 127.0.0.1 /CapitalMS/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001722s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001934s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001167s ]
+
+[ 2014-06-24T23:08:26+08:00 ] 127.0.0.1 /CapitalMS/index.php/Home/login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+ERR: 无法加载控制器:Login
+
+[ 2014-06-24T23:09:03+08:00 ] 127.0.0.1 /CapitalMS/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001913s ]
+
+[ 2014-06-24T23:11:26+08:00 ] 127.0.0.1 /CapitalMS/index.php/Home/Index/check?username=thinkphp&userpwd=123321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.048945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.049064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007671s ]
+
+[ 2014-06-24T23:12:59+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004634s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.150218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.150334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026876s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026970s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000967s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2014-06-24T23:13:21+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/excanvas.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003154s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:13:44+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/assets/js/jquery-1.10.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.096243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003416s ]
+ERR: 非法操作:assets
+
+[ 2014-06-24T23:17:14+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118780s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021137s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021231s ]
+
+[ 2014-06-24T23:17:28+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000002s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006182s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006322s ]
+
+[ 2014-06-24T23:17:28+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:17:33+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002167s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2014-06-24T23:17:33+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:17:34+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2014-06-24T23:17:34+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:17:35+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2014-06-24T23:17:36+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:18:55+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031517s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2014-06-24T23:18:55+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:19:01+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2014-06-24T23:19:09+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001115s ]
+
+[ 2014-06-24T23:20:26+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003918s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001818s ]
+
+[ 2014-06-24T23:20:26+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:20:36+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001327s ]
+
+[ 2014-06-24T23:20:37+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:20:38+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017833s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000915s ]
+
+[ 2014-06-24T23:20:39+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:20:42+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000288s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000607s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2014-06-24T23:20:42+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:20:46+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000246s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2014-06-24T23:20:47+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:20:49+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2014-06-24T23:20:49+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002889s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:21:05+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002494s ]
+
+[ 2014-06-24T23:21:06+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:21:08+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002802s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000508s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000657s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2014-06-24T23:21:08+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:22:19+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002420s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002549s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-06-24T23:22:19+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:22:20+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000245s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2014-06-24T23:22:20+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:22:21+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016680s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000890s ]
+
+[ 2014-06-24T23:22:21+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:22:22+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2014-06-24T23:22:22+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001579s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:22:22+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2014-06-24T23:22:23+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:23:33+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000867s ]
+
+[ 2014-06-24T23:23:34+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:23:37+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000310s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000424s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2014-06-24T23:23:37+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:23:53+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002003s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2014-06-24T23:23:53+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:23:54+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2014-06-24T23:23:55+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:24:58+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002478s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028956s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001231s ]
+
+[ 2014-06-24T23:24:59+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000018s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:25:00+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2014-06-24T23:25:00+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:25:01+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000005s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002410s ]
+
+[ 2014-06-24T23:25:02+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002730s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:25:02+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001058s ]
+
+[ 2014-06-24T23:25:02+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:25:03+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016061s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-06-24T23:25:04+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001573s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:25:27+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001251s ]
+
+[ 2014-06-24T23:25:27+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001630s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:25:29+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001963s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002046s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017596s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000924s ]
+
+[ 2014-06-24T23:25:29+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:25:30+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016985s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2014-06-24T23:25:31+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:25:32+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000831s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2014-06-24T23:25:32+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:26:13+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001990s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000266s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+
+[ 2014-06-24T23:26:40+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2014-06-24T23:26:40+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:26:43+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2014-06-24T23:26:43+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:27:17+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021345s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2014-06-24T23:27:17+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:27:19+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+NOTIC: [8] Use of undefined constant i - assumed 'i' C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 437 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2014-06-24T23:27:19+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:27:52+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000273s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037108s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001623s ]
+
+[ 2014-06-24T23:27:53+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:27:54+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000216s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000923s ]
+
+[ 2014-06-24T23:27:54+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:27:55+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000283s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000370s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017916s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2014-06-24T23:27:56+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:27:57+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2014-06-24T23:27:57+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000018s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:27:59+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2014-06-24T23:27:59+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:28:00+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000251s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000339s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2014-06-24T23:28:00+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:28:01+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000330s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2014-06-24T23:28:01+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:34:07+08:00 ] 127.0.0.1 /CapitalMS/index.php/Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002068s ]
+ERR: 非法操作:test
+
+[ 2014-06-24T23:43:57+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010421s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.005372s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink` LIMIT 10   [ RunTime:0.000865s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` LIMIT 10  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000495s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000601s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.025092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.020345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020437s ]
+
+[ 2014-06-24T23:43:58+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002538s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:44:00+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001910s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.004740s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink` LIMIT 10   [ RunTime:0.001152s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` LIMIT 10  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001579s ]
+
+[ 2014-06-24T23:44:01+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:44:03+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001617s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.013503s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink` LIMIT 10   [ RunTime:0.001468s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` LIMIT 10  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002533s ]
+
+[ 2014-06-24T23:44:03+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:44:19+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.016031s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink` LIMIT 10   [ RunTime:0.004643s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` LIMIT 10  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001056s ]
+
+[ 2014-06-24T23:44:19+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:44:20+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.015538s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink` LIMIT 10   [ RunTime:0.002451s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` LIMIT 10  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2014-06-24T23:44:20+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:44:42+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.012145s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.002134s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026055s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2014-06-24T23:44:42+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:44:43+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.004998s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.000710s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2014-06-24T23:44:43+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:45:35+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001182s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.007576s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.006756s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.001441s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001160s ]
+
+[ 2014-06-24T23:45:35+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:45:37+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.004705s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.002604s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.001678s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2014-06-24T23:45:38+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:45:58+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.016862s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.000943s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001684s ]
+
+[ 2014-06-24T23:45:58+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:46:18+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002153s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.007138s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.000980s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.010864s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002075s ]
+
+[ 2014-06-24T23:46:20+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001644s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.005237s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.001726s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.008553s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001800s ]
+
+[ 2014-06-24T23:46:22+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001873s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.011014s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.007461s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.000819s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001715s ]
+
+[ 2014-06-24T23:46:47+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002069s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.006217s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.009285s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.000958s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001826s ]
+
+[ 2014-06-24T23:47:07+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001350s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.005033s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.000800s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.009569s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001173s ]
+
+[ 2014-06-24T23:47:08+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.010448s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.001330s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.000824s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006952s ]
+
+[ 2014-06-24T23:47:49+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002140s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.006312s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.007277s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` WHERE ( ID=1 ) LIMIT 1   [ RunTime:0.002868s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` WHERE ( ID=1 ) LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002327s ]
+
+[ 2014-06-24T23:47:50+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.013560s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.001518s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` WHERE ( ID=1 ) LIMIT 1   [ RunTime:0.000756s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` WHERE ( ID=1 ) LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002961s ]
+
+[ 2014-06-24T23:48:04+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002348s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.014008s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.001312s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.000850s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003473s ]
+
+[ 2014-06-24T23:48:05+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.014299s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT * FROM `testthink`  [ RunTime:0.000930s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `testthink` 
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.000773s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001713s ]
+
+[ 2014-06-24T23:48:15+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002222s ]
+SQL: SHOW COLUMNS FROM `testthink` [ RunTime:0.013357s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `testthink`
+SQL: SELECT `EquName` FROM `testthink` LIMIT 1   [ RunTime:0.001016s ]
+ERR: 1146:Table 'capitalms.testthink' doesn't exist
+ [ SQL语句 ] : SELECT `EquName` FROM `testthink` LIMIT 1  
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002572s ]
+
+[ 2014-06-24T23:52:44+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002499s ]
+
+[ 2014-06-24T23:53:12+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007135s ]
+
+[ 2014-06-24T23:53:37+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+
+[ 2014-06-24T23:54:51+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013880s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011003s ]
+
+[ 2014-06-24T23:55:10+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001749s ]
+SQL: SHOW COLUMNS FROM `capital_testthink` [ RunTime:0.055687s ]
+SQL: SELECT `EquName` FROM `capital_testthink` WHERE ( ID=1 ) LIMIT 1   [ RunTime:0.000547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017476s ]
+
+[ 2014-06-24T23:55:42+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001554s ]
+SQL: SHOW COLUMNS FROM `capital_testthink` [ RunTime:0.013715s ]
+SQL: SELECT * FROM `capital_testthink`  [ RunTime:0.000493s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062252s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012376s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001917s ]
+
+[ 2014-06-24T23:55:43+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001973s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:57:14+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002393s ]
+SQL: SHOW COLUMNS FROM `capital_testthink` [ RunTime:0.005814s ]
+SQL: SELECT * FROM `capital_testthink`  [ RunTime:0.000561s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000540s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] Undefined index: SysName C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 642 行.
+NOTIC: [8] Undefined index: Manger C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 643 行.
+NOTIC: [8] Undefined index: GetDate C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 644 行.
+NOTIC: [8] Undefined index: SysName C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 642 行.
+NOTIC: [8] Undefined index: Manger C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 643 行.
+NOTIC: [8] Undefined index: GetDate C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 644 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2014-06-24T23:57:15+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载控制器:Equipment
+
+[ 2014-06-24T23:57:44+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/equlist?ProNo=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+SQL: SHOW COLUMNS FROM `capital_testthink` [ RunTime:0.011990s ]
+SQL: SELECT * FROM `capital_testthink`  [ RunTime:0.000511s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000753s ]
+NOTIC: [8] Undefined index: SysName C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 642 行.
+NOTIC: [8] Undefined index: Manger C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 643 行.
+NOTIC: [8] Undefined index: GetDate C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 644 行.
+NOTIC: [8] Undefined index: SysName C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 642 行.
+NOTIC: [8] Undefined index: Manger C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 643 行.
+NOTIC: [8] Undefined index: GetDate C:\wamp\www\CapitalMS\Application\Runtime\Cache\Manage\4fa639bf0f33f8a7d1efd2f11cd70d3a.php 第 644 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024274s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2014-06-24T23:57:45+08:00 ] 127.0.0.1 /CapitalMS/index.php/Manage/Equipment/@Url.Content(
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+NOTIC: [2] preg_replace(): Compilation failed: missing ) at offset 11 C:\wamp\www\CapitalMS\ThinkPHP\Library\Think\Dispatcher.class.php 第 126 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+ERR: 无法加载控制器:Equipment
+
